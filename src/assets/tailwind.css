@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+#app{
+@apply font-sans text-center mt-24
+}
